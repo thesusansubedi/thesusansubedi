@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujwal Shakhakarmi</h1>
+<h1 align="center">Hi 👋, I'm Susan Subedi</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*IRGHmiGsa16stedQvIaZfw.gif">
 
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/susan-subediii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt" " /></a>
+<a href="https://www.linkedin.com/in/susan-subediii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width="40" height="40></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
