@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Susan Subedi </h1>
 <h3 align="center">A passionate full stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*IRGHmiGsa16stedQvIaZfw.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwalshakhakarmi&label=Profile%20views&color=0e75b6&style=flat" alt="ujwalshakhakarmi" /> </p>
 
 - 💬 Ask me about **Laravel,HTML,CSS**
 
